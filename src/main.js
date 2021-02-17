@@ -1,4 +1,3 @@
-import * as echarts from 'echarts';
 const chartDom=document.getElementById('main')
 let myChart=echarts.init(chartDom)
 let option;
