@@ -10,7 +10,7 @@ option={
         name: {
             textStyle: {
                 color: '#fff',
-                backgroundColor: '#999',
+                backgroundColor: 'rgb(105,129,195)',
                 borderRadius: 3,
                 padding: [1, 2]
             }

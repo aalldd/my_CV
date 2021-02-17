@@ -19,7 +19,7 @@ body {
 }
 
 header {
-    background: #3c3c3c;
+    background: #182e6c;
     width: 100%;
     text-align: center;
     padding: 60px 0 10px 0;
@@ -112,13 +112,10 @@ section a {
 .skills .item span em{
     font-size: 17px;
     color: #007688;
-    background: -webkit-linear-gradient(90deg,#007688,#00b8be);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
 }
 .skills .item span:first-child::after{
     content: ':';
-    margin-left: 10px;
+    margin-left: 12px;
 }
 .contact .item {
     display: flex;
